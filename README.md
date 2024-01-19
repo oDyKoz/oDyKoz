@@ -9,6 +9,7 @@
 <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oDyKoz&exclude_repo=github-readme-stats,oDyKoz.github.io&layout=compact&hide_border=true&title_color=9277AC&text_color=9277AC&bg_color=0d1117" style=" box-shadow: none; "style/>
 </div>
 
+______________________________________________________________________________________________________________________________________________________________________________________
 
 <div align="center"> 
 <a href="https://www.instagram.com/qdy.xyz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
