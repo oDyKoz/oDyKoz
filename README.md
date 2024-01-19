@@ -11,6 +11,7 @@ ________________________________________________________________________________
 <a href="https://www.linkedin.com/in/dymas-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px" target="_blank"></a> 
  </div>
 ______________________________________________________________________________________________________________________________________________________________________________________
+
 <div align="auto">  
   <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api?username=oDyKoz&show_icons=true&count_private=true&hide_border=true&title_color=6F4D8F&icon_color=6F4D8F&text_color=9277AC&bg_color=0d1117" style=" box-shadow: none; "style/> 
 <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oDyKoz&exclude_repo=github-readme-stats,oDyKoz.github.io&layout=compact&hide_border=true&title_color=9277AC&text_color=9277AC&bg_color=0d1117" style=" box-shadow: none; "style/>
