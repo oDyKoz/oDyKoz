@@ -1,9 +1,9 @@
-###Hello world...My name is Dymas###
+### Hello world...My name is Dymas
 
 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
-##Status##
+## Status
 
 <div align="auto">  
   <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api?username=oDyKoz&show_icons=true&count_private=true&hide_border=true&title_color=6F4D8F&icon_color=6F4D8F&text_color=9277AC&bg_color=0d1117" style=" box-shadow: none; "style/> 
