@@ -14,6 +14,8 @@ I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to con
      - Use all the libraries and languages and become a professional with these skills(HTML,Css,Js,SQL,etc...)
 - [ ] IA Projects
      - Since artificial intelligence is on the rise, I'm going to study the subject and specialize as a professional.
+- [ ] Software Projects 
+     - As every developer has prior knowledge of software, I'm also specializing in this area.
 
 ## Status
 
