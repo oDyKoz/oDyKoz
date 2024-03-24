@@ -8,6 +8,12 @@ I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to con
 - Open to contributing projects.
 - Make a company.
 
+### Projects to be realized
+
+ [ ] Full Stack Projects
+     - Use all the libraries and languages and become a professional with these skills(HTML,Css,Js,SQL,etc...)
+ [ ] IA Projects
+     - Since artificial intelligence is on the rise, I'm going to study the subject and specialize as a professional.
 
 ## Status
 
