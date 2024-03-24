@@ -1,7 +1,10 @@
+###Hello world...My name is Dymas##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=602870&size=35&center=true&vCenter=true&width=1000&lines=HELLO,my+name+is+Dymas+Felipe;I'm+18+years+old;I'm+from+Brazíl;Be+Welcome!)](https://git.io/typing-svg)
 
 ______________________________________________________________________________________________________________________________________________________________________________________
+
+##Status##
+
 <div align="auto">  
   <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api?username=oDyKoz&show_icons=true&count_private=true&hide_border=true&title_color=6F4D8F&icon_color=6F4D8F&text_color=9277AC&bg_color=0d1117" style=" box-shadow: none; "style/> 
 <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oDyKoz&exclude_repo=github-readme-stats,oDyKoz.github.io&layout=compact&hide_border=true&title_color=9277AC&text_color=9277AC&bg_color=0d1117" style=" box-shadow: none; "style/>
