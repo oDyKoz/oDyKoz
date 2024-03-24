@@ -6,8 +6,7 @@ I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to con
 
 - Graduating in Data Science.
 - Open to contributing projects.
-- 
-
+- Make a company.
 
 
 ## Status
@@ -17,7 +16,7 @@ I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to con
 <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oDyKoz&exclude_repo=github-readme-stats,oDyKoz.github.io&layout=compact&hide_border=true&title_color=9277AC&text_color=9277AC&bg_color=0d1117" style=" box-shadow: none; "style/>
 </div>
 
-______________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________Make a company._________________________________________________________________________________________________
 
 <div align="center"> 
 <a href="https://www.instagram.com/qdy.xyz/" target="_blank" gap="25px"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
