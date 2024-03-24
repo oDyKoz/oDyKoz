@@ -1,8 +1,12 @@
-## Hello world...My name is Dymas
+## Hello world...I'm Dymas
 
-I'm a novice web developer and UX/UI designer.
+I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to continue in this field.
 
+### Life Project
 
+- Graduating in Data Science.
+- Open to contributing projects.
+- 
 
 
 
