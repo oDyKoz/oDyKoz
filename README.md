@@ -4,7 +4,7 @@ I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to con
 
 ### Life Project
 
-- Graduating in Data Science.
+- Graduating in Computing Science.
 - Open to contributing projects.
 - Make a company.
 
