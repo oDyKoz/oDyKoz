@@ -27,7 +27,7 @@ I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to con
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 <div align="center"> 
-<a href="https://www.instagram.com/qdy.felip._/" target="_blank" gap="25px"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/dymais._/" target="_blank" gap="25px"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCRYudk8CxZVa3Kov-R7pmfQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "dymas10felipe20@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dymas-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px" target="_blank"></a> 
