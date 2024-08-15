@@ -1,12 +1,12 @@
 ## Hello world...I'm Dymas
 
-I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to continue in this field.
+I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to continue in this field.<br>
 (Sou um web developer e UX/UI designer novato, tenho 18 anos e quero continuar nesta área.)
 
 
 ### Life Project
 
-- Graduating in Computing Science.
+- Graduating in Computing Science.<br>
   (Licenciado em Ciencia da Computação.)
 - Open to contributing projects.
   (Abrir contribuições para projetos.)
