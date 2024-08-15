@@ -1,21 +1,29 @@
 ## Hello world...I'm Dymas
 
 I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to continue in this field.
+(Sou um web developer e UX/UI designer novato, tenho 18 anos e quero continuar nesta área.)
+
 
 ### Life Project
 
 - Graduating in Computing Science.
+  (Licenciado em Ciencia da Computação.)
 - Open to contributing projects.
+  (Abrir contribuições para projetos.)
 - Make a company.
+  (Criar uma campanha ou uma empresa.)
 
 ### Projects to be realized
 
 - [ ] Full Stack Projects
-     - Use all the libraries and languages and become a professional with these skills(HTML,Css,Js,SQL,etc...)
+     - Use all the libraries,languages and become a professional with these skills(HTML,Css,Js,SQL,etc...)
+       ( Utilizar todas as bibliotecas,linguagens e tornar-se um profissional com estas competências. "HTML, Css, Js, SQL, etc.")
 - [ ] IA Projects
      - Since artificial intelligence is on the rise, I'm going to study the subject and specialize as a professional.
+       ( Uma vez que a inteligência artificial está em ascensão, vou estudar o assunto e especializar-me como profissional.)
 - [ ] Software Projects 
      - As every developer has prior knowledge of software, I'm also specializing in this area.
+       ( Como todos os programadores têm conhecimentos prévios de software, também estou a especializar-me nesta área.)
 
 ## Status
 
