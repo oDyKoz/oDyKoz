@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=602870&height=120&section=header"/>
+
+
 ## Hello world...I'm Dymas
 
 I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to continue in this field.<br>
@@ -92,12 +95,9 @@ I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to con
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/oDyKoz/oDyKoz/output/snake.svg" alt="Snake animation" />
-
 ###
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=602870&height=120&section=footer"/>
 
 
   
