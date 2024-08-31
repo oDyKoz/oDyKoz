@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,my+name+is+Dymas+Felipe;I'm+18+years+old;I'm+from+Brazíl;Be+Welcome!)](https://git.io/typing-svg)
 
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/ee/e0/88/eee0880a5c95051fee205dde59d74c87.gif"  /> </br>
-
 I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to continue in this field.<br>
 (Sou um web developer e UX/UI designer novato, tenho 18 anos e quero continuar nesta área.)
 
@@ -84,6 +82,7 @@ I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to con
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<img align="left" height="150" src="https://i.pinimg.com/originals/ee/e0/88/eee0880a5c95051fee205dde59d74c87.gif"  /> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=602870&height=120&section=footer"/>
 
 
