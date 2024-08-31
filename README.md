@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,my+name+is+Dymas+Felipe;I'm+18+years+old;I'm+from+Brazíl;Be+Welcome!)](https://git.io/typing-svg)
 
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/ee/e0/88/eee0880a5c95051fee205dde59d74c87.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/ee/e0/88/eee0880a5c95051fee205dde59d74c87.gif"  /> </br>
 
 I'm a novice web developer and UX/UI designer.I'm 18 years old and I want to continue in this field.<br>
 (Sou um web developer e UX/UI designer novato, tenho 18 anos e quero continuar nesta área.)
