@@ -4,7 +4,7 @@
 
 
 I'm a student in the programming field and I'm looking to specialize in security.
-(Sou estudante no ramo da programação e venha a me especializar na área de segurança.)
+(Sou estudante no ramo da programação e venho a me especializar na área da segurança.)
 
 
 ### Life Project
