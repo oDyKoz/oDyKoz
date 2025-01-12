@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,my+name+is+Dymas+Felipe;I'm+19+years+old;I'm+from+Brazíl;Be+Welcome!)](https://git.io/typing-svg)
 
 
-I'm a novice web developer and UX/UI designer.I'm 19 years old and I want to continue in this field.<br>
-(Sou um web developer e UX/UI designer novato, tenho 19 anos e quero continuar nesta área.)
+I'm a student in the programming field and I'm looking to specialize in security.
+(Sou estudante no ramo da programação e venha a me especializar na área de segurança.)
 
 
 ### Life Project
