@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Ciência da Computação no Unimar - Universidade de Marília.
+- 💼 Trabalhando como Jovem Aprendiz na Tray E-Commerce.
+- 🌱 Aprendendo mais sobre Python e IA.
 
 ## Minhas Skills
 
