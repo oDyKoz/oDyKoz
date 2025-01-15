@@ -1,4 +1,4 @@
-## Dymas Felipe
+## Hi, my name Dymas Felipe 👋
 
 
 
@@ -29,9 +29,9 @@
 
 ## 💌 Aqui vai uma mensagem para entrar em contato com você:
 
-[![iuricode](https://github-readme-stats.vercel.app/api?oDyKoz=iuricode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=oDyKoz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?oDyKoz=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=oDyKoz&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left">
