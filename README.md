@@ -1,4 +1,4 @@
-## Hi, my name Dymas Felipe 👋
+## Hi, my name is Dymas Felipe 👋
 
 
 
