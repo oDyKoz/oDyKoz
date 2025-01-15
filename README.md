@@ -1,38 +1,47 @@
-![](https://komarev.com/ghpvc/?oDyKoz=iuricode&color=006bed)
+## Dymas Felipe
 
-## Sobre mim
+---
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação no Unimar - Universidade de Marília.
-- 💼 Trabalhando como Jovem Aprendiz na Tray E-Commerce.
-- 🌱 Aprendendo mais sobre Python e IA.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Minhas Skills
+---
 
-**Aplicações e dados**
+<p align="left"> 
+ Sou um estudante com experiência em desenvolvimento Full Stack mas meu maior competência é Front end, atuando em diversas áreas da tecnologia da informação. Minha paixão por inovação e aprendizado constante me levou a adquirir competências em linguagens de programação, IA, redes neurais e automação com Arduino. Tenho um forte compromisso com a excelência técnica, colaborando em projetos desafiadores e entregando soluções eficientes.
+  
+</p>
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+---
 
 
-**Ferramentas de desenvolvimento**
+## 🦄 Linguagens:
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+## 💼 Ferramentas:
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
-## Onde me encontrar
+--- 
 
-[![Linkedin](https://img.shields.io/badge/-dymas-felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dymas-felipe/)](https://www.linkedin.com/in/dymas-felipe/)
-[![Gmail Badge](https://img.shields.io/badge/-dymas10felipe20@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/oDyKoz)
+## 💌 Aqui vai uma mensagem para entrar em contato com você:
+
+[![iuricode](https://github-readme-stats.vercel.app/api?oDyKoz=iuricode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?oDyKoz=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<p align="left">
+  <a href="dymas10felipe20@gmai.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dymas10felipe20@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/dymas-felipe/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://whatsa.me/14997919470" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/dymais._/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
