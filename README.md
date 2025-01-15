@@ -12,20 +12,19 @@
 </p>
 
 
-<br>
-
-##🦄 Linguagens:
+<p>
+**🦄 Linguagens:**
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-
-
-## 💼 Ferramentas:
+<p>
+**💼 Ferramentas:**
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-
+</p>
 
 
 ## 💌 Aqui vai uma mensagem para entrar em contato com você:
