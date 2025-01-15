@@ -1,17 +1,17 @@
 ## Dymas Felipe
 
----
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
----
+
 
 <p align="left"> 
  Sou um estudante com experiência em desenvolvimento Full Stack mas meu maior competência é Front end, atuando em diversas áreas da tecnologia da informação. Minha paixão por inovação e aprendizado constante me levou a adquirir competências em linguagens de programação, IA, redes neurais e automação com Arduino. Tenho um forte compromisso com a excelência técnica, colaborando em projetos desafiadores e entregando soluções eficientes.
   
 </p>
 
----
+
 
 
 ## 🦄 Linguagens:
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
---- 
+
 
 ## 💌 Aqui vai uma mensagem para entrar em contato com você:
 
@@ -34,7 +34,7 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?oDyKoz=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
 <p align="left">
   <a href="dymas10felipe20@gmai.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dymas10felipe20@gmail.com" alt="Gmail"/></a>
