@@ -1,76 +1,38 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=602870&height=120&section=header"/>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,my+name+is+Dymas+Felipe;I'm+19+years+old;I'm+from+Brazíl;Be+Welcome!)](https://git.io/typing-svg)
+## Sobre mim
 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {seu curso} no {faculdade}.
+- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
-I'm a student in the programming field and I'm looking to specialize in security.
-(Sou estudante no ramo da programação e venho a me especializar na área da segurança.)
+## Minhas Skills
 
+**Aplicações e dados**
 
-### Life Project
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-- Graduating in Computing Science.<br>
-  (Licenciado em Ciencia da Computação.)
-- Open to contributing projects.<br>
-  (Abrir contribuições para projetos.)
-- Make a company.<br>
-  (Criar uma campanha ou uma empresa.)
+**DevOps**
 
-### Projects to be realized
-
-- [ ] Full Stack Projects
-     - Use all the libraries,languages and become a professional with these skills(HTML,Css,Js,SQL,etc...)<br>
-       ( Utilizar todas as bibliotecas,linguagens e tornar-se um profissional com estas competências. "HTML, Css, Js, SQL, etc.")
-- [ ] IA Projects
-     - Since artificial intelligence is on the rise, I'm going to study the subject and specialize as a professional.<br>
-       ( Uma vez que a inteligência artificial está em ascensão, vou estudar o assunto e especializar-me como profissional.)
-- [ ] Software Projects 
-     - As every developer has prior knowledge of software, I'm also specializing in this area.<br>
-       ( Como todos os programadores têm conhecimentos prévios de software, também estou a especializar-me nesta área.)
-
-## Status
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oDyKOZ&locale=en&mode=day&theme=prussian&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oDyKOZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@odykoz7004" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/dymais._/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ubyedy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="dymas10felipe20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dymas-felipe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=602870&height=120&section=footer"/>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-  
+**Ferramentas de desenvolvimento**
 
- 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-dymas-felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dymas-felipe/)](https://www.linkedin.com/in/dymas-felipe/)
+[![Gmail Badge](https://img.shields.io/badge/-dymas10felipe20@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/oDyKoz)
