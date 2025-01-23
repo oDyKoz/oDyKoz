@@ -27,7 +27,7 @@
 </p>
 
 
-## 💌 Meus Status & Minha Redes Sociais:
+## 💌 Status & Redes Sociais:
 
 [![DymasF](https://github-readme-stats.vercel.app/api?username=oDyKoz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
