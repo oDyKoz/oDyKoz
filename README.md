@@ -27,7 +27,7 @@
 </p>
 
 
-## 💌 Aqui vai uma mensagem para entrar em contato com você:
+## 💌 Meus Status & Minha Redes Sociais:
 
 [![DymasF](https://github-readme-stats.vercel.app/api?username=oDyKoz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
