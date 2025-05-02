@@ -7,7 +7,7 @@
 
 
 <p align="left"> 
- Sou um estudante com experiência em desenvolvimento Full Stack mas meu maior competência é Front end, atuando em diversas áreas da tecnologia da informação. Minha paixão por inovação e aprendizado constante me levou a adquirir competências em linguagens de programação, IA, redes neurais e automação com Arduino. Tenho um forte compromisso com a excelência técnica, colaborando em projetos desafiadores e entregando soluções eficientes.
+ Sou um estudante e tenho experiência em desenvolvimento Full Stack mas meu maior competência é Back end e IA, mas atualmente estudo diversas áreas da tecnologia da informação. Minha paixão por inovação e aprendizado constante me levou a adquirir competências em linguagens de programação, IA, redes neurais, automação com Arduino e sistema de lojas. Tenho um forte compromisso com a excelência técnica, colaborando em projetos desafiadores e entregando soluções eficientes.
   
 </p>
 
