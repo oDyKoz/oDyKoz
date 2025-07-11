@@ -1,4 +1,4 @@
-## Hi, my name is Dymas Felipe 👋
+## Hi, my name is Dymas Felipe 
 
 
 
@@ -7,27 +7,33 @@
 
 
 <p align="left"> 
- Atualmente estudo diversas áreas da tecnologia da informação. Minha paixão por inovação e aprendizado constante me levou a adquirir competências em linguagens de programação, IA, redes neurais, automação com Arduino e sistema de lojas. Tenho um forte compromisso com a excelência técnica, colaborando em projetos desafiadores e entregando soluções eficientes.
+ Atualmente estudo diversas áreas da tecnologia da informação. Minha paixão por inovação e aprendizado constante me levou a adquirir competências em linguagens de programação, IA, redes neurais, automação com Arduino e sistemas robustos de lojas digital. Tenho um forte compromisso com a excelência técnica, colaborando em projetos desafiadores e entregando soluções eficientes.
   
 </p>
 
 
-<p>
-🦄 Linguagens:<br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p>
-💼 Ferramentas:<br>
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-</p>
+Linguagens:
+<br>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-## 💌 Status & Redes Sociais:
+Ferramentas:
+<br>
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+## Status & Redes Sociais:
 
 [![DymasF](https://github-readme-stats.vercel.app/api?username=oDyKoz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
