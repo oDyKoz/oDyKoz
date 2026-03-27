@@ -7,7 +7,15 @@
 
 
 <p align="left"> 
- Atualmente estudo diversas áreas da tecnologia da informação. Minha paixão por inovação e aprendizado constante me levou a adquirir competências em linguagens de programação, IA, redes neurais, automação com Arduino e sistemas robustos de lojas digital. Tenho um forte compromisso com a excelência técnica, colaborando em projetos desafiadores e entregando soluções eficientes.
+Olá recrutadores e visitantes! Seja bem vindo ao meu Perfil!
+
+Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com foco na construção de aplicações web modernas e escaláveis.
+
+Tenho experiência prática com HTML, CSS, JavaScript e frameworks como React, além de Node.js no backend. Utilizo ferramentas como Git, GitHub e GitLab para versionamento e trabalho com bancos de dados relacionais como MySQL e SQLite, além de conhecimentos em Python para automações e lógica de programação.
+
+Já desenvolvi projetos aplicando essas tecnologias, estruturando interfaces responsivas, integrando APIs e organizando código seguindo boas práticas. Também tive experiência profissional como Analista de Suporte Técnico N1, onde atuei na resolução de problemas, comunicação com usuários e análise de sistemas.
+
+Atualmente, busco uma oportunidade de estágio em desenvolvimento de software para aprofundar meus conhecimentos, contribuir com projetos reais e evoluir em ambientes colaborativos e desafiadores.
   
 </p>
 
